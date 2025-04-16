@@ -1,13 +1,41 @@
-.green-btn{
-    background: #4CAF4F;
-    color: #FFF;
+.green-bnt{
+    background: #4caf4f;
+    color: #fff;
     font-weight: 400;
 }
-.green-btn:hover,.green-btn:focus{
-    background: #38853b;
-    color: #FFF;
+
+.green-bnt:hover , .green-bnt:focus{
+    background: #4caf4f;
+    color: #fff;
 }
 
-.title-green{
-    color: #4CAF4F;
+h5{
+    color: #4caf4f;
+}
+
+h5 a{
+    text-decoration: none;
+    color: #4caf4f;
+}
+
+h6 a{
+    text-decoration: none;
+    color: #4caf4f;
+}
+
+.text-translate{
+    transform: translateY(-110%);
+    background: #ffffff ;
+    margin: 40px;
+    border-radius: 10px;
+}
+
+.text-translate p{
+    margin: 20px;
+    /* width: ; */
+    height: 60px;
+}
+
+.text-translate a{
+    margin: 10px;
 }
